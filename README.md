@@ -7,6 +7,8 @@ This is a simple project for volume rendering of DICOM data in Unity.
 Demo
 ----
 
+<img src="https://raw.githubusercontent.com/wiki/hecomi/UnityDicomVolumeRendering/Demo.gif" width="720" />
+
 The DICOM data used for the above rendering was downloaded from the following website.
 - https://mri.radiology.uiowa.edu/visible_human_datasets.html
 
